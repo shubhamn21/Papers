@@ -1,0 +1,102 @@
+################################
+Deep Convolutional Ranking for Multilabel Image Annotation
+NUS-WIDE | 
+https://arxiv.org/pdf/1312.4894.pdf
+
+
+NUS-WIDE: A Real-World Web Image Database from National University of Singapore
+https://lms.comp.nus.edu.sg/research/large-files/nuswide-civr2009.pdf
+
+
+Visual Attention Model for Name Tagging in Multimodal Social Media
+Dataset from Instagram and snapchat | Multimodal input
+https://www.aclweb.org/anthology/P18-1185
+
+Advances in deep learning approaches for image tagging
+NDCG | NUS, MSCOCO | approaches for tagging
+https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/advances_in_deep_learning_approaches_for_image_tagging.pdf
+
+Content-Based Image Annotation Refinement1
+CIAR | Markov process | Corel
+http://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/4270246/
+
+Measuring and Predicting Tag Importance for Image Retrieval
+https://arxiv.org/pdf/1602.08680.pdf
+
+Multi-Label Cross-modal Retrieval
+NUSWIDE, PASCALVOC | NDCG
+https://web.iiit.ac.in/~viresh.ranjan/profile/publications/mlCCA.pdf
+
+Instance Similarity Deep Hashing for Multi-Label Image Retrieval
+NDCG | NUSWIDE, Flickr, VOC2012 
+https://arxiv.org/pdf/1803.02987.pdf
+
+
+Visual and semantic context modeling for scene-centric image annotation
+https://www.researchgate.net/publication/300374349_Visual_and_semantic_context_modeling_for_scene-centric_image_annotation
+
+TagProp: Discriminative Metric Learning in Nearest Neighbor Models for Image Auto-Annotation
+Tagprop
+http://class.inrialpes.fr/pub/guillaumin-iccv09b.pdf
+
+Learning to Rank Image Tags With Limited Training Examples
+https://www.researchgate.net/publication/271533178_Learning_to_Rank_Image_Tags_With_Limited_Training_Examples
+
+Attend and Imagine: Multi-label Image Classification with Visual Attention and Recurrent Neural Networks
+http://sci-hub.tw/https://ieeexplore.ieee.org/document/8624407
+
+Multi-Modal Multi-Scale Deep Learning for Large-Scale Image Annotation
+https://arxiv.org/pdf/1709.01220.pdf
+
+Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection
+https://arxiv.org/pdf/1809.05884.pdf
+
+Multi-label Triplet Embeddings for Image Annotation from User-Generated Tags
+Ignore?
+http://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3206061
+
+Semantic Regularisation for Recurrent Image Annotation
+https://arxiv.org/pdf/1611.05490.pdf
+
+CNN-RNN: A Unified Framework for Multi-label Image Classification
+https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wang_CNN-RNN_A_Unified_CVPR_2016_paper.pdf
+
+Measuring and Predicting Tag Importance forImage Retrieva
+https://arxiv.org/pdf/1602.08680.pdf
+
+Understanding and Predicting Importance in Images
+https://sci-hub.tw/10.1109/cvpr.2012.6248100
+
+Collecting Image Annotations Using Amazon’s Mechanical Turk
+https://www.aclweb.org/anthology/W10-0721
+
+Image Tag Refinement TowardsLow-Rank, Content-Tag Prior and Error Sparsity
+https://people.eecs.berkeley.edu/~yima/psfile/ACM-MM10.pdf
+
+
+NMF-KNN: Image Annotation Using Weighted Multi-view Non-negative Matrix Factorization
+https://www.researchgate.net/publication/286594397_NMF-KNN_Image_Annotation_Using_Weighted_Multi-view_Non-negative_Matrix_Factorization#pf8
+
+
+Learning to Rank Image Tags with Limited Training Example
+Indians
+http://ijatir.org/uploads/216354IJATIR12004-499.pdf
+
+DenseCap: Fully Convolutional Localization Networks for Dense Captioning
+https://arxiv.org/pdf/1511.07571.pdf
+
+
+#######################################################
+Performance Evaluation 
+
+CNN-RNN: A Unified Framework for Multi-label Image Classification
+https://arxiv.org/pdf/1604.04573.pdf 
+MSCOCO
+
+Multi-label Ranking from Positive and Unlabeled Data
+MSCOCO
+https://zpascal.net/cvpr2016/Kanehira_Multi-Label_Ranking_From_CVPR_2016_paper.pdf
+
+Advances in deep learning approaches for image tagging
+https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/advances_in_deep_learning_approaches_for_image_tagging.pdf
+

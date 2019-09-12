@@ -1,0 +1,9 @@
+https://www.aclweb.org/anthology/P18-1185
+http://sci-hub.tw/https://ieeexplore.ieee.org/abstract/document/4270246/
+https://www.researchgate.net/publication/300374349_Visual_and_semantic_context_modeling_for_scene-centric_image_annotation
+https://www.researchgate.net/publication/271533178_Learning_to_Rank_Image_Tags_With_Limited_Training_Examples
+http://sci-hub.tw/https://ieeexplore.ieee.org/document/8624407
+http://sci-hub.tw/https://dl.acm.org/citation.cfm?id=3206061
+https://sci-hub.tw/10.1109/cvpr.2012.6248100
+https://www.aclweb.org/anthology/W10-0721
+https://www.researchgate.net/publication/286594397_NMF-KNN_Image_Annotation_Using_Weighted_Multi-view_Non-negative_Matrix_Factorization#pf8
